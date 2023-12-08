@@ -1,0 +1,34 @@
+@media (min-width: 576px)
+{
+    .principal{
+        background-color: red;
+    }
+    
+    .imagem{
+        background-image: url("https://images.unsplash.com/34/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cGFpc2FnZW18ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60")
+    }
+}
+@media (min-width: 768px)
+{
+    .principal{
+        background-color:blue;
+    }
+}
+@media (min-width: 992px)
+{
+    .principal{
+        background-color: green;
+    }
+}
+@media (min-width: 1200px)
+{
+    .principal{
+        background-color: grey;
+    }
+}
+@media (min-width: 1400px)
+{
+    .principal{
+        background-color: purple;
+    }
+}

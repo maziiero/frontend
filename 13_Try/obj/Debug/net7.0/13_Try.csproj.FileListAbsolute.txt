@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\bin\Debug\net7.0\13_Try.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\bin\Debug\net7.0\13_Try.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\bin\Debug\net7.0\13_Try.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\bin\Debug\net7.0\13_Try.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\bin\Debug\net7.0\13_Try.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\refint\13_Try.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\13_Try.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\maziero\2  semestre\front-end\13_Try\obj\Debug\net7.0\ref\13_Try.dll
